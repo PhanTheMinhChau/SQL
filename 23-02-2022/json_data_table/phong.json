@@ -1,0 +1,26 @@
+[
+  {
+    "MAPHONG": "HCA",
+    "TENPHONG": "Hành chính tổ hợp",
+    "DIACHI": "123, Láng Hạ, Đống Đa, Hà Nội",
+    "TEL": "04 8585793"
+  },
+  {
+    "MAPHONG": "KDA",
+    "TENPHONG": "Kinh Doanh",
+    "DIACHI": "123, Láng Hạ, Đống Đa, Hà Nội",
+    "TEL": "04 8574943"
+  },
+  {
+    "MAPHONG": "KTA",
+    "TENPHONG": "Kỹ thuật",
+    "DIACHI": "123, Láng Hạ, Đống Đa, Hà Nội",
+    "TEL": "04 9480485"
+  },
+  {
+    "MAPHONG": "QTA",
+    "TENPHONG": "Quản trị",
+    "DIACHI": "123, Láng Hạ, Đống Đa, Hà Nội",
+    "TEL": ""
+  }
+]
