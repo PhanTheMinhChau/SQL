@@ -1,0 +1,132 @@
+[
+  {
+    "MANV": "HC001",
+    "MANN": 1,
+    "TDO": "A"
+  },
+  {
+    "MANV": "HC001",
+    "MANN": 2,
+    "TDO": "B"
+  },
+  {
+    "MANV": "HC002",
+    "MANN": 1,
+    "TDO": "C"
+  },
+  {
+    "MANV": "HC002",
+    "MANN": 3,
+    "TDO": "C"
+  },
+  {
+    "MANV": "HC003",
+    "MANN": 1,
+    "TDO": "D"
+  },
+  {
+    "MANV": "KD001",
+    "MANN": 1,
+    "TDO": "C"
+  },
+  {
+    "MANV": "KD001",
+    "MANN": 2,
+    "TDO": "B"
+  },
+  {
+    "MANV": "KD002",
+    "MANN": 1,
+    "TDO": "D"
+  },
+  {
+    "MANV": "KD002",
+    "MANN": 2,
+    "TDO": "A"
+  },
+  {
+    "MANV": "KD003",
+    "MANN": 1,
+    "TDO": "B"
+  },
+  {
+    "MANV": "KD003",
+    "MANN": 2,
+    "TDO": "C"
+  },
+  {
+    "MANV": "KD004",
+    "MANN": 1,
+    "TDO": "C"
+  },
+  {
+    "MANV": "KD004",
+    "MANN": 4,
+    "TDO": "A"
+  },
+  {
+    "MANV": "KD004",
+    "MANN": 5,
+    "TDO": "A"
+  },
+  {
+    "MANV": "KD005",
+    "MANN": 1,
+    "TDO": "B"
+  },
+  {
+    "MANV": "KD005",
+    "MANN": 2,
+    "TDO": "D"
+  },
+  {
+    "MANV": "KD005",
+    "MANN": 3,
+    "TDO": "B"
+  },
+  {
+    "MANV": "KD005",
+    "MANN": 4,
+    "TDO": "B"
+  },
+  {
+    "MANV": "KT001",
+    "MANN": 1,
+    "TDO": "D"
+  },
+  {
+    "MANV": "KT001",
+    "MANN": 4,
+    "TDO": "E"
+  },
+  {
+    "MANV": "KT002",
+    "MANN": 1,
+    "TDO": "C"
+  },
+  {
+    "MANV": "KT002",
+    "MANN": 2,
+    "TDO": "B"
+  },
+  {
+    "MANV": "KT003",
+    "MANN": 1,
+    "TDO": "D"
+  },
+  {
+    "MANV": "KT003",
+    "MANN": 3,
+    "TDO": "C"
+  },
+  {
+    "MANV": "KT004",
+    "MANN": 1,
+    "TDO": "D"
+  },
+  {
+    "MANV": "KT005",
+    "MANN": 1,
+    "TDO": "C"
+  }
+]
