@@ -1,0 +1,182 @@
+[
+  {
+    "MANV": "HC001",
+    "HOTEN": "Nguyễn Thị Hà",
+    "GIOITINH": "Nữ",
+    "NGAYSINH": "8/27/1950",
+    "LUONG": 2500000,
+    "MAPHONG": "HCA",
+    "Sdt": "",
+    "NGAYBC": "2/8/1975"
+  },
+  {
+    "MANV": "HC002",
+    "HOTEN": "Trần Văn Nam",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "6/12/1975",
+    "LUONG": 3000000,
+    "MAPHONG": "HCA",
+    "Sdt": "",
+    "NGAYBC": "6/8/1997"
+  },
+  {
+    "MANV": "HC003",
+    "HOTEN": "Nguyễn Thanh Huyền",
+    "GIOITINH": "Nữ",
+    "NGAYSINH": "7/3/1978",
+    "LUONG": 1500000,
+    "MAPHONG": "HCA",
+    "Sdt": "",
+    "NGAYBC": "9/24/1999"
+  },
+  {
+    "MANV": "KD001",
+    "HOTEN": "Lê Tuyết Anh",
+    "GIOITINH": "Nữ",
+    "NGAYSINH": "2/3/1977",
+    "LUONG": 2500000,
+    "MAPHONG": "KDA",
+    "Sdt": "",
+    "NGAYBC": "10/2/2001"
+  },
+  {
+    "MANV": "KD002",
+    "HOTEN": "Nguyễn Anh Tú",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "7/4/1942",
+    "LUONG": 2600000,
+    "MAPHONG": "KDA",
+    "Sdt": "",
+    "NGAYBC": "9/24/1999"
+  },
+  {
+    "MANV": "KD003",
+    "HOTEN": "Phạm An Thái",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "5/9/1977",
+    "LUONG": 1600000,
+    "MAPHONG": "KDA",
+    "Sdt": "",
+    "NGAYBC": "9/24/1999"
+  },
+  {
+    "MANV": "KD004",
+    "HOTEN": "Lê Văn Hải",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "1/2/1976",
+    "LUONG": 2700000,
+    "MAPHONG": "KDA",
+    "Sdt": "",
+    "NGAYBC": "6/8/1997"
+  },
+  {
+    "MANV": "KD005",
+    "HOTEN": "Nguyễn Phương Minh",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "1/2/1980",
+    "LUONG": 2000000,
+    "MAPHONG": "KDA",
+    "Sdt": "",
+    "NGAYBC": "10/2/2001"
+  },
+  {
+    "MANV": "KT001",
+    "HOTEN": "Trần Đình Khâm",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "12/2/1981",
+    "LUONG": 2700000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "1/1/2005"
+  },
+  {
+    "MANV": "KT002",
+    "HOTEN": "Nguyễn Mạnh Hùng",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "8/16/1980",
+    "LUONG": 2300000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "1/1/2005"
+  },
+  {
+    "MANV": "KT003",
+    "HOTEN": "Phạm Thanh Sơn",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "8/20/1984",
+    "LUONG": 2000000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "1/1/2005"
+  },
+  {
+    "MANV": "KT004",
+    "HOTEN": "Vũ Thị Hoài",
+    "GIOITINH": "Nữ",
+    "NGAYSINH": "12/5/1980",
+    "LUONG": 2500000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "10/2/2001"
+  },
+  {
+    "MANV": "KT005",
+    "HOTEN": "Nguyễn Thu Lan",
+    "GIOITINH": "Nữ",
+    "NGAYSINH": "10/5/1977",
+    "LUONG": 3000000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "10/2/2001"
+  },
+  {
+    "MANV": "KT006",
+    "HOTEN": "Trần Hoài Nam",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "7/2/1978",
+    "LUONG": 2800000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "6/8/1997"
+  },
+  {
+    "MANV": "KT007",
+    "HOTEN": "Hoàng Nam Sơn",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "12/3/1940",
+    "LUONG": 3000000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "7/2/1965"
+  },
+  {
+    "MANV": "KT008",
+    "HOTEN": "Lê Thu Trang",
+    "GIOITINH": "Nữ",
+    "NGAYSINH": "7/6/1950",
+    "LUONG": 2500000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "8/2/1968"
+  },
+  {
+    "MANV": "KT009",
+    "HOTEN": "Khúc Nam Hải",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "7/22/1980",
+    "LUONG": 2000000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "1/1/2005"
+  },
+  {
+    "MANV": "KT010",
+    "HOTEN": "Phùng Trung Dũng",
+    "GIOITINH": "Nam",
+    "NGAYSINH": "8/28/1978",
+    "LUONG": 2200000,
+    "MAPHONG": "KTA",
+    "Sdt": "",
+    "NGAYBC": "9/24/1999"
+  }
+]
