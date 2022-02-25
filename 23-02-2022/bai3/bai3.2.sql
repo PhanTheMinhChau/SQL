@@ -1,1 +1,0 @@
-select tenphong, tennn, luong  from qlnv.nhanvien, qlnv.phong, qlnv.tdnn, qlnv.dmnn where (nhanvien.hoten ='Phan Thế Minh Châu') and (nhanvien.maphong = phong.maphong) and (tdnn.manv = nhanvien.manv) and (tdnn.mann = dmnn.mann);
